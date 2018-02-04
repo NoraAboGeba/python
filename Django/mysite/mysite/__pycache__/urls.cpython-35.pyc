@@ -1,0 +1,21 @@
+
+
+
+\ACCvZ \00\00\E3\00\00\00\00\00\00\00\00\00\00\00\00\00\00\00@\00\00\00sZ\00\00\00d\00\00Z\00\00d\00d\00l\00m\00Z\00m\00Z\00d\00d\00l\00m\00Z\00e\00d\00e\00d\00\83\00\83\00e\00d\00e\00j\00j\00\83\00g\00Z\00d\00S)ao\00\00mysite URL Configuration
+
+The `urlpatterns` list routes URLs to views. For more information please see:
+    https://docs.djangoproject.com/en/2.0/topics/http/urls/
+Examples:
+Function views
+    1. Add an import:  from my_app import views
+    2. Add a URL to urlpatterns:  path('', views.home, name='home')
+Class-based views
+    1. Add an import:  from other_app.views import Home
+    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
+Including another URLconf
+    1. Import the include() function: from django.urls import include, path
+    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+\E9\00\00\00\00)\DAinclude\DApath)\DAadminzpolls/z
+polls.urlszadmin/N)	\DA__doc__\DAdjango.urlsr\00\00\00r\00\00\00Zdjango.contribr\00\00\00\DAsite\DAurls\DAurlpatterns\A9\00r
+\00\00\00r
+\00\00\00\FAI/home/omnya/Documents/Python/python/Django_tutorial/mysite/mysite/urls.py\DA<module>\00\00\00s\00\00\00
