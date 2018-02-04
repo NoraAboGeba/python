@@ -1,0 +1,23 @@
+
+import math
+
+def calculateArea(shape,a,b=1):
+    if(shape == 't'):
+        areaOfTriangle=0.5*a*b
+        return areaOfTriangle;
+
+    if(shape == 'r'):
+        areaOfRectangle=a*b
+        return areaOfRectangle;
+
+    if(shape == 's'):
+        areaOfSquare=a*a
+        return areaOfSquare;
+
+    if(shape == 'c'):
+        areaOfCircle=math.pi*(a**2)
+        return areaOfCircle;
+
+
+if __name__ == '__main__':
+    pass
